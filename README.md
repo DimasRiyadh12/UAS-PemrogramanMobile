@@ -7,9 +7,9 @@
 | Matkul     | Pemrograman Mobile  |
 
 # Flutter API
-Berikut project UAS Pemrograman Mobile yang menggabungkan penggunaan API dengan Flutter untuk membuat aplikasi mobile. Dalam project ini, saya akan menggunakan Flutter untuk mengonsumsi dan menampilkan data dari API yang tersedia.
+Berikut project UAS Pemrograman Mobile yang menggabungkan penggunaan API dengan Flutter untuk membuat aplikasi mobile. Dalam project ini, saya akan menggunakan Flutter untuk menampilkan data dari API yang tersedia.
 
-Pastikan Anda telah menginstal Flutter SDK. Jika belum, Anda dapat mengunjungi flutter.dev untuk petunjuk instalasi.
+Pastikan Anda telah menginstal Flutter SDK. Jika belum, Anda dapat mengunjungi `flutter.dev` untuk petunjuk instalasi.
 API yang saya gunakan adalah `https://www.themoviedb.org/movie`
 
 ## Output nya
